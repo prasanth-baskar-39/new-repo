@@ -1,1 +1,1 @@
-print("from main file")
+print("from main file of main.py")
